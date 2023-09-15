@@ -16,7 +16,6 @@ namespace GuessingGame
             int lives = 6;
             int guess = 0;
 
-
             bool outOfLives = false;
 
             while (outOfLives == false)
